@@ -154,12 +154,4 @@ If you found this project useful:
 📢 Share it with others
 
 <p align="center"> ❤️ Built with AI, Machine Learning & Passion for Healthcare Innovation </p>
-Logo Idea for GitHub
 
-Use this at the top of your README:
-
-    ❤️
-   /|\
-  /_|_\
- AI HEALTH
- HEARTGUARD
